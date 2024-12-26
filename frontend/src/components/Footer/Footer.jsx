@@ -6,19 +6,19 @@ import { AiFillYoutube, AiFillGithub, AiOutlineInstagram } from 'react-icons/ai'
 
 const socialLinks = [
     {
-        path: "https://www.youtube.com/c/CodingWithMuhib",
+        path: "https://www.youtube.com",
         icon: <AiFillYoutube className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: "https://github.com/codingwithmuhib",
+        path: "https://github.com",
         icon: <AiFillGithub className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: "https://www.instagram.com/muhib160.official/",
+        path: "https://www.instagram.com",
         icon: <AiOutlineInstagram className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: "https://www.linkedin.com/in/codingwithmuhib/",
+        path: "https://www.linkedin.com",
         Icon: < RiLinkedinFill className="group-hover:text-white w-4 h-5" />,
     },
 ];
@@ -83,7 +83,7 @@ const footer = () => {
                     <div>
                         <img src={logo} alt="" />
                         <p className="text-[16px] leading-7 font-[400] text-textColor mt-4">
-                            Copyright &copy; {year} developed by Muhibur Rahman All rights reserved
+                            Copyright &copy; {year} developed by group 19 All rights reserved
                         </p>
                         <div className="flex items-center gap-3 mt-4">
                             {socialLinks.map((link, index) => (

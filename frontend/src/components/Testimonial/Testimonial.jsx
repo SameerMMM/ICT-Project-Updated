@@ -30,7 +30,7 @@ const Testimonial = () => {
                 }}
             >
                 <SwiperSlide>
-                    <div className="py-[30px] px-5 rounded-sm"> {/* Use a valid Tailwind class */}
+                    <div className="py-[30px] px-5 rounded-sm">
                         <div className="flex items-center gap-[13px]">
                             <img src={patientAvatar} alt="" />
                             <div>

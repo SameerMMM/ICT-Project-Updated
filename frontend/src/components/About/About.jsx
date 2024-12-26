@@ -18,7 +18,7 @@ const About = () => {
                         Proud to be one the nations best
                     </h2>
                     <p className="text_para">
-                        for 30 years in a row, U.S News & World report has organized usas one of the publics hospital in the Nation and #1 in Texas.
+                        for 30 years in a row, Sri Lankan & World report has organized usas one of the publics hospital in the Nation and #1 in Sri Lanka.
                     </p>
                     <p className="text_para mt-[30px]">
                         Our best is something we strive for each day, caring for our patients-not looking back at what we accomplished but towards what we can do tomorrow. Providing the best
