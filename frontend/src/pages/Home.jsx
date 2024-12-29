@@ -30,7 +30,7 @@ const Home = () => {
                             <p className="text_para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum facilis dicta illum totam distinctio error quia. Consectetur perspiciatis soluta, quas architecto illum unde, corrupti necessitatibus officiis commodi id voluptas dolore?
                             </p>
 
-                            <button className="btn">Request an Appointment</button>
+                            <button className="btn"><a href="#">Request an Appointment</a></button>
                         </div>
                         <div className="mt-[30px] lg:mt-[70px] flex flex-col lg:flex-row lg:items-center gap-5 lg:gap-[30px]">
                             <div>
